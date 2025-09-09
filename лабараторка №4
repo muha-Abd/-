@@ -1,0 +1,13 @@
+for пример
+a = 0 
+for i in range(9):
+    print(i)
+
+
+while пример
+
+b = 1
+while b<8:
+    print(b)
+    b+=1
+ 
